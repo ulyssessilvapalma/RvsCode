@@ -1,4 +1,2 @@
-install.packages("tidyverse")
-
-y=c(seq(1,100,by=10))
-
+install.packages(tidyverse)
+install.packages(tidyverse)
