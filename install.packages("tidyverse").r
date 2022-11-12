@@ -1,3 +1,4 @@
-install.packages(languageserver)
+install.packages("tidyverse")
 
-devtools::install_github(”REditorSupport/languageserver“)
+y=c(seq(1,100,by=10))
+
