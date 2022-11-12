@@ -1,1 +1,1 @@
-install.packages("tidyverse")
+altura<-c(seq(1,100,by=10))
