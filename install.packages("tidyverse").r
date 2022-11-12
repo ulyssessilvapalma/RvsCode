@@ -1,1 +1,3 @@
-altura<-c(seq(1,100,by=10))
+install.packages(languageserver)
+
+devtools::install_github(”REditorSupport/languageserver“)
